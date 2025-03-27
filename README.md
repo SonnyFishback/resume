@@ -1,2 +1,2 @@
-![resume part 1](./assets/sonny_fishback_resume.jpg)
-![resume part 2](./assets/sonny_fishback_resume-2.jpg)
+![resume part 1](./assets/page-1.jpg)
+![resume part 2](./assets/page-2.jpg)
